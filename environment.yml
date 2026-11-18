@@ -1,0 +1,12 @@
+name: soil-dada2
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.12
+  - cutadapt=5.2
+  - r-base=4.5
+  - bioconductor-dada2=1.38.0
+  - bioconductor-biostrings
+  - r-digest

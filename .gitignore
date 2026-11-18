@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+.Rhistory
+.RData
+demo/
+prepared/
+denoised/
+*.partial/
+results/
+taxonomy-out/
+refs/

@@ -1,0 +1,5 @@
+study_id	run_id	analysis_group	trunc_len_f	trunc_len_r	max_ee_f	max_ee_r	min_len	min_overlap	max_mismatch	pool	chimera_method	learn_nbases
+StudyA	Run01	16S_V4_PE	0	0	2	2	50	12	0	false	consensus	100000000
+StudyA	Run01	ITS2_PE	0	0	2	2	50	12	0	false	consensus	100000000
+StudyA	Run01	18S_V4_PE	0	0	2	2	50	12	0	false	consensus	100000000
+StudyA	Run01	16S_V4_R1_150	150	0	2	2	50	12	0	false	consensus	100000000

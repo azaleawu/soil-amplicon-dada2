@@ -1,0 +1,4 @@
+library_id	sample_id	study_id	run_id	analysis_group	marker	layout	locus	primer_f	primer_r	orientation	endpoint	platform	quality_source	primer_state	read1	read2	profile_id	depth_top_cm	depth_bottom_cm	sample_type	source_accession
+demo_16S_paired_B1_L1	CoreA_Top	Demo	Flowcell1	demo_16S_paired	16S	paired	V4	ACGTTGACTGGACGTA	TTACGAGCCATGATGC	forward	merged_insert	illumina	full_phred33	present	demo_16S_paired_B1_L1_R1.fastq.gz	demo_16S_paired_B1_L1_R2.fastq.gz	CoreA	0	10	soil	SIMULATED
+demo_18S_single_B1_L1	CoreA_Top	Demo	Flowcell1	demo_18S_single	18S	single	V4	ACGTTGACTGGACGTA	TTACGAGCCATGATGC	forward	R1_100	illumina	full_phred33	removed	demo_18S_single_B1_L1_R1.fastq.gz		CoreA	0	10	soil	SIMULATED
+demo_ITS_paired_B1_L1	CoreA_Top	Demo	Flowcell1	demo_ITS_paired	ITS	paired	ITS2	ACGTTGACTGGACGTA	TTACGAGCCATGATGC	forward	merged_insert	illumina	full_phred33	present	demo_ITS_paired_B1_L1_R1.fastq.gz	demo_ITS_paired_B1_L1_R2.fastq.gz	CoreA	0	10	soil	SIMULATED
